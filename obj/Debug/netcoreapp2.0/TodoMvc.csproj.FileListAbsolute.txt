@@ -1,0 +1,12 @@
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\bin\Debug\netcoreapp2.0\app.db
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\bin\Debug\netcoreapp2.0\TodoMvc.deps.json
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\bin\Debug\netcoreapp2.0\TodoMvc.runtimeconfig.json
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\bin\Debug\netcoreapp2.0\TodoMvc.runtimeconfig.dev.json
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\bin\Debug\netcoreapp2.0\TodoMvc.dll
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\bin\Debug\netcoreapp2.0\TodoMvc.pdb
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\obj\Debug\netcoreapp2.0\TodoMvc.csproj.CoreCompileInputs.cache
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\obj\Debug\netcoreapp2.0\TodoMvc.AssemblyInfoInputs.cache
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\obj\Debug\netcoreapp2.0\TodoMvc.AssemblyInfo.cs
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\obj\Debug\netcoreapp2.0\TodoMvc.dll
+C:\Users\opet\Downloads\TDS171A_2018_1_Des_Web-master\source\Todo\TodoMvc\obj\Debug\netcoreapp2.0\TodoMvc.pdb
