@@ -12,32 +12,37 @@ Como por exemplo uma interface 'IDependencia' que invoque o método AddSingleton
 Há 3 formas de injeção de dependencia: Constructor injection, setter injection e interface injection.<br>
 
 **Constructor**:<br>
-Um modelo onde a interface ICalculate foi implementada na classe Calculate.<br>
-public readonly ICalculate Calculate;<br>
-public HomeController(ICalculate calculate)<br>
-{<br>
-    Calculate = calculate;<br>
-}<br>
-<br>
-**Setter**<br>
-public class Global<br>
-{<br>
-    public ICalculate Calculate { get; set; }<br>
-}<br>
-<br>
-**Interface**<br>
-public class Global<br>
-{<br>
-    public void setCalculate(ICalculate calculate)<br>
-    {<br>
-        Calculate = calculate; <br>       
-    }<br>        
-    public ICalculate Calculate { get; private set; }<br>
-}<br>
+```
+Um modelo onde a interface ICalculate foi implementada na classe Calculate.
+    public readonly ICalculate Calculate;
+    public HomeController(ICalculate calculate)
+        {
+            Calculate = calculate;
+        }
 
+```
+**Setter**<br>
+```
+    public class Global
+        {
+            public ICalculate Calculate { get; set; }<br>
+        }
+
+```
+**Interface**<br>
+```
+    public class Global
+    {
+        public void setCalculate(ICalculate calculate)
+        {
+            Calculate = calculate;     
+        }        
+        public ICalculate Calculate { get; private set; }
+    }
+```
 Todas as instancias resolvidas via injeção de dependencia serão associadas a propriedades do objeto **ViewBag**.<br>
 Exemplo:<br>
-Objeto A: @ViewBag.ObjetoA.(alguma Guid)<br>
+    Objeto A: @ViewBag.ObjetoA.(alguma Guid)<br>
 
 
 
